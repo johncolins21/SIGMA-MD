@@ -1,7 +1,7 @@
 {
   "name": "SIGMA-MD WHATSAPP BOT BY MAHER ZUBAIR",
   "description": "A Whatsapp Bot With Most Premium Features Makes Your Whatsapp Premium. For Any Help See My YT:https://www.youtube.com/@InnoxentTech",
-  "logo": "https://telegra.ph/file/e5768d0b5a4441b4e576b.jpg",
+  "logo": "https://i.imgur.com/WW3qVz8.jpg",
   "keywords": [
     "nodejs",
     "bot",
@@ -22,7 +22,7 @@
     },
     "THUMB_IMAGE": {
       "description": "THUMBNAIL Image for bot.",
-      "value": "https://telegra.ph/file/03e49e6e2057568db8926.jpg"
+      "value": "https://i.imgur.com/WW3qVz8.jpg"
     },
     "HEROKU_API_KEY": {
       "description": "Put Your Heroku Api Key Here",
@@ -94,7 +94,7 @@
     },
     "TIME_ZONE": {
       "description": "Add Your TimeZone. make sure the timzone is correct/Otherwise you will have errors",
-      "value": "Asia/Karachi"
+      "value": "Africa/Nairobi"
     },
     "BOT_NAME": {
       "description": "Add Your Own Bot Name",
